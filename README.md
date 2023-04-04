@@ -1,4 +1,4 @@
-# <h1 align="center">KINOTICK BOOKING WEB APPLICATION</h1>
+# <h1 align="center">ASTLAS ACADEMY E-LEARNING</h1>
 
 # Built With
 
