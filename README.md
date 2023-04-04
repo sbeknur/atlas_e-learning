@@ -30,21 +30,3 @@
    ```js
    MONGO = mongodb+srv://<username>:<password>@cluster0.fjebmve.mongodb.net/projectName?retryWrites=true&w=majority;
    ```
-   
-   
-# Screenshots
-
-![Снимок экрана (261)](https://user-images.githubusercontent.com/97735001/220728701-d2d3fa5d-42ce-4f7a-98bf-e6063405ba62.png)
-
-![Снимок экрана (262)](https://user-images.githubusercontent.com/97735001/220728714-69e6e79e-818f-4934-a739-be31327bae25.png)
-
-
-# Contact
-
-Beknur Sailaubek- @sbeknur - [web.telegram.org](web.telegram.org)
-
-Zhanel Rymkhanova - @ilovelyj  - [web.telegram.org](web.telegram.org)
-
-Merey Zhumagul - @ZhumagulMerey - [web.telegram.org](web.telegram.org)
-
-Project Link: [https://github.com/sbeknur/nosql-project](https://github.com/sbeknur/nosql-project)
