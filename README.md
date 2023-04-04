@@ -28,5 +28,5 @@
    ```
 3. Enter your mongo url in `.env`
    ```js
-   MONGO = mongodb+srv://<username>:<password>@cluster0.fjebmve.mongodb.net/projectName?retryWrites=true&w=majority;
+   MONGO = mongodb+srv://admin:admin@cluster0.v7xbf7y.mongodb.net/?retryWrites=true&w=majority;
    ```
